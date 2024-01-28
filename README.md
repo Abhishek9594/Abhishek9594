@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate javascript fullstack developer</h3>
-Hi, I'm Abhishek Sharma, a Full Stack Developer 🚀 from India, I'm looking for **NEW OPPORTUNITIES** and currently working as a Associate Consultant 🙍🏽‍♂️ [@Capgemini](https://www.capgemini.com/in-en) Beside's programming, I enjoy traveling and reading and playing Badminton.
+<h3 align="center">A passionate React Js developer</h3>
+Hi, I'm Abhishek Sharma, a React Js Developer 🚀 from India, currently working as a Senior Analyst for Aerospace and manufacturing domain in 🙍🏽‍♂️Capgemini.
+Developed and maintained responsive web applications using React.js, ensuring seamless user experiences across various devices.
+Excellent Client interaction skills and proven experience in working independently as well as in a team.
+Strong background in supporting production environments and meeting customer needs.
+Beside's programming, I enjoy traveling and reading and playing Badminton.
 
   <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
   
@@ -11,7 +15,7 @@ Hi, I'm Abhishek Sharma, a Full Stack Developer 🚀 from India, I'm looking for
 - 🌱 I’m huge fan of React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sharmaabhi9594@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1FvGmyrd7ThvC6bvWONzBZqsLSlnCaVd-/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/1HUTWb9zEfN5A_ZQU_ocZ4ajXatkdArtQ/view?usp=sharing)
 
 <img align="right" alt="coding" width="400" height="240" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <br>
