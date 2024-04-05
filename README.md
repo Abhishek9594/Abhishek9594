@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate React Js developer</h3>
-Hi, I'm Abhishek Sharma, a React Js Developer 🚀 from India, currently working as a Senior Analyst for Aerospace and manufacturing domain in 🙍🏽‍♂️Capgemini.
+Hi, I'm Abhishek Sharma, a React Js Developer 🚀 from India, currently working as a Associate consultant for Aerospace and manufacturing domain in 🙍🏽‍♂️Capgemini.
 Developed and maintained responsive web applications using React.js, ensuring seamless user experiences across various devices.
 Excellent Client interaction skills and proven experience in working independently as well as in a team.
 Strong background in supporting production environments and meeting customer needs.
