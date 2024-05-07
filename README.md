@@ -15,7 +15,7 @@ Beside's programming, I enjoy traveling and reading and playing Badminton.
 - 🌱 I’m huge fan of React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sharmaabhi9594@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1HUTWb9zEfN5A_ZQU_ocZ4ajXatkdArtQ/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/19UvhM88nY718q7xhfV6sZ9bTOR665eh2/view?usp=sharing)
 
 <img align="right" alt="coding" width="400" height="240" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <br>
